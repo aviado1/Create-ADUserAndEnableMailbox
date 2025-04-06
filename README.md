@@ -58,3 +58,5 @@ Inside the script, replace the following placeholder values:
 
 This script is provided as-is, with no warranties.  
 Always test in a non-production environment before deploying to live systems.
+
+Script Author: [aviado1](https://github.com/aviado1)
